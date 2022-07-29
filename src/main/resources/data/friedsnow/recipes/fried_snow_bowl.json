@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "friedsnow:fried_snowball_item"
+    },
+    {
+      "item": "friedsnow:fried_snowball_item"
+    },
+    {
+      "item": "friedsnow:fried_snowball_item"
+    },
+    {
+      "item": "friedsnow:fried_snowball_item"
+    },
+    {
+      "item": "friedsnow:fried_snowball_item"
+    }
+  ],
+  "result": {
+    "item": "friedsnow:fried_snow_bowl"
+  }
+}

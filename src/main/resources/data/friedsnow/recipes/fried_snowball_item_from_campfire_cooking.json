@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "minecraft:snowball"
+  },
+  "result": "friedsnow:fried_snowball_item",
+  "experience": 0.35,
+  "cookingtime": 600
+}
